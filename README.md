@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <!--
 **DataSlugger/dataslugger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Javier Montero a.k.a Data Slugger, a Data Engineer appasionate for automatization and ETL Process, former Honduras Baseball National Team player.
+I'm from Tegucigalpa, Honduras currently living Houston, Texas, USA. 
+
+I enjoy to help others and solve issues that can help to improve my skills and career.
+My hidden passion is blog about Data Vizualization, BI, ETL, SQL Server Database performance and automatization on Medium.
+
+[![DataSlugger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataslugger)](https://github.com/dataslugger/github-readme-stats)
