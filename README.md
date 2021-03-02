@@ -45,8 +45,8 @@ My hidden passion is blog about Data Vizualization, BI, ETL, SQL Server Database
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-[1.2]: ![twitter](https://user-images.githubusercontent.com/15751283/109595548-5c9a3000-7ada-11eb-84ac-8cc03d376365.png) (twitter icon without padding)
-[2.2]: ![linkedin](https://user-images.githubusercontent.com/15751283/109595719-af73e780-7ada-11eb-8c7b-095f46034503.png) (LinkedIn icon without padding)
+[1.2]: ![twitter](https://user-images.githubusercontent.com/15751283/109595548-5c9a3000-7ada-11eb-84ac-8cc03d376365.png) 
+[2.2]: ![linkedin](https://user-images.githubusercontent.com/15751283/109595719-af73e780-7ada-11eb-8c7b-095f46034503.png)
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/dataslugger
