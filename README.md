@@ -26,6 +26,7 @@ I'm Javier Montero a.k.a Data Slugger, a Data Engineer passionate for automatiza
 I'm from Tegucigalpa, Honduras currently living Houston, Texas, USA. 
 
 I enjoy helping others and solve issues that can help to improve my skills and career.
+I love to work with data and improve the performances of the data sources.
 My hidden passion is blogging about Data Vizualization, BI, ETL, SQL Server Database performance and automatization on Medium.
 
 <div align="center">
