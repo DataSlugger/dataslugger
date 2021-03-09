@@ -1,4 +1,4 @@
-![1500x500](https://user-images.githubusercontent.com/15751283/109594001-a3d2f180-7ad7-11eb-8c8a-b97d43ab7e9c.jpg)
+![1500x500](https://user-images.githubusercontent.com/15751283/110406389-c0c37380-8047-11eb-823a-57cc48d163f3.jpg)
 <!-- 
 <img src="/images/1500x500.jpg" />
 
