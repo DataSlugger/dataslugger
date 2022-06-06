@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=#1DA1F2&Style=for-the-badge&logoWidth=75)](https://twitter.com/dataslugger) [![Medium](https://img.shields.io/badge/-Medium-%23000000?Style=for-the-badge&logo=medium&logoWidth=30)](https://medium.com/@jmontero19)
 
-I'm Javier Montero a.k.a Data Slugger, a Data Engineer and Data Professional passionate for automatization and ETL Process. 
+I'm Javier Montero a.k.a Data Slugger, a Business Intelligence Developer, & a Data Professional passionate for automatization and ETL Process. 
 
 > I have spent 10+ years of experience working on multiple data roles from technical support, software developer, SQL Developer, SQL DBA, BI Engineer, etc.
 
