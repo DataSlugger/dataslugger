@@ -65,12 +65,7 @@ My hidden passion is blogging about Data Vizualization, BI, ETL, SQL Server Data
 
 ---
 [![Dataslugger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataslugger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/dataslugger/dataslugger)
-[![Dataslugger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dataslugger&langs_count=8&theme=onedark)](https://github.com/dataslugger/dataslugger)
-<div align="center">
-<a href="https://github.com/dataslugger/dataslugger">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?dataslugger" frameborder="0"></iframe>
-</a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dataslugger&langs_count=8&theme=onedark)]
 <!--
 <div align="center">
 <a href="https://github.com/dataslugger/github-readme-stats">
