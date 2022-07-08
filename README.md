@@ -64,8 +64,8 @@ My hidden passion is blogging about Data Vizualization, BI, ETL, SQL Server Data
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-[![Dataslugger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataslugger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/dataslugger/github-readme-stats)
-[![Dataslugger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dataslugger&langs_count=8&theme=onedark&layout=compact)](https://github.com/dataslugger/github-readme-stats)
+[![Dataslugger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataslugger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/dataslugger/dataslugger)
+[![Dataslugger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dataslugger&langs_count=8&theme=onedark&layout=compact)](https://github.com/dataslugger/dataslugger)
 <!--
 <div align="center">
 <a href="https://github.com/dataslugger/github-readme-stats">
