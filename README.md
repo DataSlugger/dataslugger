@@ -39,6 +39,10 @@ I love to work with data and improve the performances of the data sources.
 My hidden passion is blogging about Data Vizualization, BI, ETL, SQL Server Database performance and automatization on Medium.
 
 ---
+## Badge's
+[![MLB Daily Stats Pipeline](https://github.com/DataSlugger/PythonCode/actions/workflows/etl_mlb_currentday.yml/badge.svg)](https://github.com/DataSlugger/PythonCode/actions/workflows/etl_mlb_currentday.yml)
+
+---
 ## Languages and Tools
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Power BI](https://img.shields.io/badge/-POWER%20BI-%23F2C811?Style=for-the-badge&logo=powerbi&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-%232496ED.svg?Style=for-the-badge&logo=docker&logoColor=white) ![Github](https://img.shields.io/badge/-Github-%23181717?Style=for-the-badge&logo=github) ![Git](https://img.shields.io/badge/-Git-%23F05032?Style=for-the-badge&logo=git&logoColor=white&logoWidth=50)
