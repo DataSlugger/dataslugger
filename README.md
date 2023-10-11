@@ -26,17 +26,18 @@ Here are some ideas to get you started:
 ### How to reach me:
 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=#1DA1F2&Style=for-the-badge&logoWidth=75)](https://twitter.com/dataslugger) [![Medium](https://img.shields.io/badge/-Medium-%23000000?Style=for-the-badge&logo=medium&logoWidth=30)](https://medium.com/@jmontero19)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dataslugger)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?Style=for-the-badge&logo=medium&logoWidth=30)](https://medium.com/@jmontero19)
 
-I'm Javier Montero a.k.a Data Slugger, a Business Intelligence Developer, & a Data Professional passionate for automatization and ETL Process. 
+I'm Javier Montero a.k.a Data Slugger, a Business Intelligence Developer, & a Data Professional passionate about automatization and ETL Process. 
 
-> I have spent 10+ years of experience working on multiple data roles from technical support, software developer, SQL Developer, SQL DBA, BI Engineer, etc.
+> I have spent 10+ years of experience working on multiple data roles, from technical support, software development, SQL Developer, SQL DBA, BI engineering, etc.
 
-> My experience working on multi-environment include several of tools like SSIS, SSAS, SSRS, Docker, Python Pandas, Optimize SQL Query Performance, Build ETL Pipelines & Process, Data Warehouseing, Data Modeling, Data Clean, Support and Optimize data process for Multi-Terabytes Databases.
+> My experience working on multi-environment include several tools like SSIS, SSAS, SSRS, Docker, Python Pandas, Optimizing SQL Query Performance, Building ETL Pipelines & Process, Data Warehousing, Data Modeling, Data Clean, Support and Optimize data process for multi-terabyte databases.
 
-I enjoy helping others and solve issues that can help to improve my skills and career.
-I love to work with data and improve the performances of the data sources.
-My hidden passion is blogging about Data Vizualization, BI, ETL, SQL Server Database performance and automatization on Medium.
+I enjoy helping others and solving issues that can help to improve my skills and career.
+I love to work with data and improve the performance of the data sources.
+My hidden passion is blogging about Data visualization, BI, ETL, SQL Server Database performance, and automatization on Medium.
 
 ---
 ## Badge's
