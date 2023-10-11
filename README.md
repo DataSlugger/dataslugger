@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### How to reach me:
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dataslugger)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dataslugger)](https://twitter.com/DataSlugger)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?Style=for-the-badge&logo=medium&logoWidth=30)](https://medium.com/@jmontero19)
 
 I'm Javier Montero a.k.a Data Slugger, a Business Intelligence Developer, & a Data Professional passionate about automatization and ETL Process. 
