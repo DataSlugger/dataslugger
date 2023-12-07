@@ -70,7 +70,7 @@ My hidden passion is blogging about Data visualization, BI, ETL, SQL Server Data
 
 ---
 [![Dataslugger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dataslugger&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/dataslugger/dataslugger)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dataslugger&langs_count=8&theme=onedark)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dataslugger&langs_count=8&theme=onedark)]
 <!--
 <div align="center">
 <a href="https://github.com/dataslugger/github-readme-stats">
